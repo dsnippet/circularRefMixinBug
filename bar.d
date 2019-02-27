@@ -1,0 +1,2 @@
+import qux;
+class bar {} 
